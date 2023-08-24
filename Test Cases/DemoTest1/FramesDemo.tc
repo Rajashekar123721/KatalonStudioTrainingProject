@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FramesDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f165c3cf-dcd9-4c3e-918a-7cb540903dbb</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>54f48972-1ec3-418e-8c25-20ff78ef061b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginData</testDataId>
+   </testDataLinks>
+</TestCaseEntity>
