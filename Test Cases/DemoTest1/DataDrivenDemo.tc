@@ -5,16 +5,25 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>202d137b-ffd3-40ef-9f2a-fb436b894666</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>37c17b02-5781-41d7-8e1c-b43bf5b29c72</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginData</testDataId>
+   </testDataLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>37c17b02-5781-41d7-8e1c-b43bf5b29c72</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
       <variableId>6be861ef-a101-49ec-8c2b-e9e23e4693c2</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>37c17b02-5781-41d7-8e1c-b43bf5b29c72</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
       <variableId>6ad82908-f5b0-4175-8103-46506995ae78</variableId>
    </variableLinks>
    <variable>
